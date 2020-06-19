@@ -1,0 +1,5 @@
+com\fdorval\spoilgot\unit\UnitTest.class
+com\fdorval\spoilgot\business\BusinessUnitTest.class
+com\fdorval\spoilgot\dao\mock\FireBaseDaoMock.class
+com\fdorval\spoilgot\component\ComponentTest.class
+com\fdorval\spoilgot\integration\IntegrationTest.class
